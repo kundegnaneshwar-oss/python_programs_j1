@@ -1,0 +1,2 @@
+welcome to write python program 
+this program to write info to file
